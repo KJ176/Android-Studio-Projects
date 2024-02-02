@@ -1,0 +1,6 @@
+[submodule "SudokuGame"]
+	path = SudokuGame
+	url = https://github.com/KJ176/Sudoku-Game.git
+[submodule "StickyNotesApp"]
+	path = StickyNotesApp
+	url = https://github.com/KJ176/Sticky-Notes-Application.git
